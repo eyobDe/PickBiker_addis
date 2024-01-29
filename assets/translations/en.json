@@ -1,0 +1,237 @@
+{
+  "helloWorld": "Hello World!",
+
+  "servCat": {
+    "install": "Installation and maintenance",
+    "constr": "Construction services",
+    "prof": "Professional services",
+    "home": "In home services"
+  },
+
+  "serv": {
+    "1": "Plumbing",
+    "2": "Electric works",
+    "3": "IT and computer maintenance",
+    "4": "Office electronics",
+    "5": "Networking",
+    "6": "Elevator maintenance",
+    "7": "Refrigerator",
+    "8": "Stove maintenance",
+    "9": "Satellite dish works",
+    "10": "CCTV Camera ",
+    "11": "Air conditioner  ",
+    "12": "Car maintenance  ",
+    "13": "Printer maintenance",
+    "14": "Generator maintenance",
+    "15": "TV and electronics ",
+    "16": "Washing machine maintenance",
+
+
+    "17": "Furniture works",
+    "18": "Gypsum works",
+    "19": "Interior design",
+    "20": "Aluminum services",
+    "21": "Ceramic installation",
+    "22": "Glass and window services",
+    "23": "Bricklaying ",
+    "24": "Terrazzo works ",
+    "25": "Sanitary installation ",
+    "26": "Iron works ",
+    "27": "Plastering services",
+    "28": "Roofing works",
+    "29": "Solar photovoltaic installation ",
+    "30": "Crane services ",
+
+
+    "31": "Website development",
+    "32": "Graphics design",
+    "33": "Printing and advertisement",
+    "34": "Home tutoring",
+    "35": "Personal language training",
+    "36": "Personal driver training",
+    "37": "Personal computer training",
+    "38": "Personal fitness training",
+    "39": "Accounting services",
+    "40": "Law and legal advisory",
+
+    "41": "Broker services ",
+    "42": "Cleaning services",
+    "43": "Catering services",
+    "44": "Laundry services",
+    "45": "Gardening services",
+    "46": "Car wash (Lavaggio)"
+
+
+
+
+
+  },
+
+  "servs": " Services",
+
+  "addServs": "Add services and professions",
+  "addUpto3servs": "You can add up to 3 services that you want to work on",
+
+  "add": "Add",
+
+  "servDescr": "Service Description",
+
+  "noServDescr": "No service description",
+
+  "writeServDescr": "Please write a brief service description about your work",
+
+  "addDescr": "Add description",
+
+  "cLang": "Change Language",
+
+  "copyright": "From Keteme Information Technology PLC 2021 ",
+  "copyrightAddr": "Addis Ababa, Ethiopia",
+
+
+
+
+  "updPro": "Update Profile",
+
+  "phoneno": "phone number",
+  "invalidno": "Invalid Phone number",
+
+
+
+
+
+  "bePro": "Become a professional",
+  "changeToPro": "Change to a professional account",
+  "changeToClient": "Change to a client account ",
+
+  "changeToAProTi": "Would you like to continue changing your account to a professional one?",
+  "changeToAClientTi": "Would you like to continue changing your account to a client one?",
+
+  "changeToAProCon": " You can change it back to your client account any time.",
+  "changeToAClientCon": "You can reverse it back to your professional account anytime. ",
+
+  "changeToProDesc": "You can provide services to others by changing your account to a professional one",
+  "changeToClientDesc": "You can find professionals in different fields of service near you by changing your account to a client one",
+
+  "writeDescriHint": "write your service description here",
+
+  "addservices": "Add services",
+
+
+  "update": "Update",
+
+  "changeNow": "Change",
+  "cancel": "Cancel",
+  "continue": "Continue",
+
+  "removeServTi": "Remove this service?",
+  "removeServDes": "You are about to remove this service ",
+
+
+
+
+  "pick": "Pick",
+  "pro": "Pro",
+  "searchServ": "Search services",
+  "searchYouNeed": "Search a service or a profession you need",
+  "searchServNoFound": "No such service found",
+  "getYouNeed": "Choose the service you need",
+  "popServ": "Get pros near you ",
+
+
+
+  "selecServs": "Select services",
+  "maxServs": "Maximum services left {} ",
+
+  "clear": "Clear",
+  "cancel": "Cancel",
+  "save": "Save",
+
+  "joined": "Joined in ",
+
+
+  "verify": "Verify",
+  "verifCode": "Verification code",
+  "singnIn": "Sign in",
+  "sending": "We are sending you an SMS verification code, please wait a sec.",
+  "sent": "Please check your phone SMS for the verification code.",
+  "autoVerify": "Phone number is automatically verified.",
+  "failedVerify": "Phone number verification is failed.",
+
+  "wrongPhoneTi": "The phone number is not correct.",
+  "wrongPhoneDesc": "Please enter your phone number correctly and try again.",
+
+  "wrongNameTi": "You have not added your name.",
+  "wrongNameDesc": "Please enter your name and try again.",
+
+  "popserv1": "Electric maintain and install",
+  "popserv2": "Gypsum and related works",
+  "popserv3": "Website design and development",
+  "popserv4": "Home & office cleaning",
+
+
+
+
+
+
+  "ok": "Okay",
+
+
+
+  "name": "Full name",
+  "asPro":"Are you registering as a professional?",
+  "join": "Join",
+  "no": "No",
+  "yes": "Yes",
+
+
+  "options": "Options",
+  "fromCam": "Capture Image From Camera",
+  "fromGall": "Take Image From Gallery",
+
+
+
+  "callNow": "Call now",
+  "smsNow": "SMS now",
+
+  "prosAvail":" Pros available",
+  "away":"km away",
+
+  "joinedPro": "Since ",
+
+
+  "noPros":"Huh!! Looks like we don't have pros in that service near you yet!",
+
+
+  "noCustLead":"No customer leads yet",
+  "custLead":"Total customer leads ",
+
+
+  "noInternet":"No internet, please turn on your Data or Wifi  ",
+
+
+
+  "locaDis":"Location services are disabled, \n please turn on your location and try again. ",
+
+
+  "locaPermDen":"Location permissions are denied,\n please permit the app to access your location by going to your setting ",
+
+  "locaPermntDen":"Location permissions are permanently denied,\n please enable it by going to your phone setting. ",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

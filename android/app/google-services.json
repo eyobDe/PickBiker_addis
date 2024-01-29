@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353104233729",
+    "project_id": "pickdelivery-addis",
+    "storage_bucket": "pickdelivery-addis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353104233729:android:e085432db65671c9608700",
+        "android_client_info": {
+          "package_name": "com.keteme.app.pick_delivery_addis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToL2sScvKUuqFx5K-TuTZ8SHHnmosnNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353104233729:android:68e707fd2c0a44ca608700",
+        "android_client_info": {
+          "package_name": "com.keteme.pick_delivery_addis_biker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToL2sScvKUuqFx5K-TuTZ8SHHnmosnNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
