@@ -1,6 +1,6 @@
 # pick_delivery_adama_biker
 
-A new Flutter project.
+This is a biker app for PickDelivery Addis Ababa
 
 ## Getting Started
 
